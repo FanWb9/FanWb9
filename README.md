@@ -1,11 +1,11 @@
 ### Hi there! 👋, I'm Irfan!
 
-🔭 I’m a **Backend Developer** specializing in **Laravel, Filament, and Node.js**  
+🔭 I’m a **Backend Developer** specializing in **Laravel, Filament, Node.js, and .NET C#**  
 🌱 I’m currently learning **API Development**  
-💬 Ask me about **Laravel, Filament, Node.js, MySQL, SQL Server, and Backend Development**  
+💬 Ask me about **Laravel, Filament, Node.js, .NET C#, MySQL, SQL Server, and Backend Development**  
 📫 How to reach me: [GitHub](https://github.com/FanWb9)  
 
---
+---
 
 ### 🚀 Tech Stack:
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
@@ -13,6 +13,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
