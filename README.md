@@ -1,6 +1,6 @@
 ### Hi there! 👋, I'm Irfan!
 
-🔭 I’m a **Backend Developer** specializing in **Laravel, Filament, Node.js, and Golang**  
+🔭 I’m a **Software Developer** specializing in **Laravel, Filament, Node.js, and Golang,Flutter**  
 🌱 I’m currently learning **API Development**  
 💬 Ask me about **Laravel, Filament, Node.js, Golang, MySQL, SQL Server, and Backend Development**  
 📫 How to reach me: [GitHub](https://github.com/FanWb9)  
