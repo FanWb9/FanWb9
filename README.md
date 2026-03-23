@@ -73,7 +73,9 @@ I'm always interested in discussing backend architecture, mobile development, or
 
 <div align="center">
 
-[GitHub](https://github.com/FanWb9) | [Instagram](https://www.instagram.com/_fann.07) | [Email](mailto:irfanhakimgkh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FanWb9)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_fann.07)
+[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanhakimgkh@gmail.com)
 
 </div>
 
