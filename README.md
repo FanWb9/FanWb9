@@ -67,28 +67,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-*(Coming soon - showcase your best work here!)*
-
-```
-🔗 Repository: [Project Name]
-📝 Description: Brief description of what it does
-🛠️ Stack: Golang, MySQL | Flutter, Dart
-⭐ Highlights: Key features or achievements
-```
-
----
-
-## 🌱 Currently Learning
-
-- 📚 Advanced microservices patterns
-- 🔐 API security best practices
-- ⚡ Performance optimization techniques
-- 🏗️ System design at scale
-
----
-
 ## 💬 Let's Connect!
 
 I'm always interested in discussing backend architecture, mobile development, or collaborating on exciting projects!
@@ -106,7 +84,5 @@ I'm always interested in discussing backend architecture, mobile development, or
 <div align="center">
 
 **"Write code that speaks for itself"** 💪
-
-![Profile Views](https://komarev.com/ghpvc/?username=FanWb9&color=00d4ff&style=flat-square)
 
 </div>
