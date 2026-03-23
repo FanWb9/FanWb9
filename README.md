@@ -26,20 +26,22 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Expertise Breakdown
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FanWb9&show_icons=true&theme=dark&bg_color=0a0e27&title_color=00d4ff&text_color=e8e9f3&border_color=00d4ff" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanWb9&layout=compact&theme=dark&bg_color=0a0e27&title_color=00d4ff&text_color=e8e9f3&border_color=00d4ff" alt="Top Languages" />
-</div>
+| Category | Experience |
+|----------|------------|
+| **Golang** | Backend APIs, Microservices, Gin Framework |
+| **Flutter** | Cross-platform Mobile Apps, State Management |
+| **PostgreSQL** | Advanced queries, JSON handling, Performance tuning |
+| **MySQL** | Database design, Query optimization, Indexing |
+| **REST APIs** | API design, Integration, Documentation |
+| **Microservices** | Architecture, Deployment, Scaling |
 
 ---
 
